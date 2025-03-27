@@ -1,5 +1,25 @@
-## Hi there 👋
+ # 🌸 Hey, I’m Brittany! 💻✨
 
+
+
+## 💡 AI Sorceress | Digital Creator | Chaos Coordinator
+
+🛠 What I Do 
+
+🌟 AI-Powered Productivity
+
+🌟 Making organization ✨aesthetic✨
+
+🌟 App Development – Tiny apps, big impact 💡
+
+🌟 Freelancing & Virtual Assistance
+
+
+## 🦄 Current Shenanigans
+
+🌸 Building an AI-powered self-help app 
+
+🎮 Creating AI trivia games & live streams 
 <!--
 **brownbrittany/brownbrittany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
